@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: How much do I like Aragorn?
+  answers:
+  - 100%
+  - 50%
+  - 0%
+  - -1000%
+  correctAnswerIndex: 2

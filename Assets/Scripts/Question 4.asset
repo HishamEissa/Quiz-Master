@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: Ramy's favorite game genre?
+  answers:
+  - First Person Shooters
+  - City Builders
+  - Action
+  - Hack and Slash
+  correctAnswerIndex: 0

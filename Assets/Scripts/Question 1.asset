@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: Eksh is a?
+  answers:
+  - Bot
+  - AI
+  - Android
+  - Sophisticated Potato
+  correctAnswerIndex: 2

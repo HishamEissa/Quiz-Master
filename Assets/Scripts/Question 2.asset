@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: Hussy's moto?
+  answers:
+  - LUUUUVVVV!!!
+  - Daddy
+  - Meerkat
+  - Big
+  correctAnswerIndex: 0
