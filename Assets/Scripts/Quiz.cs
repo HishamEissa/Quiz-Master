@@ -17,8 +17,8 @@ public class Quiz : MonoBehaviour
 
     void Start()
     {
-        GetNextQuestion();
-        //DisplayQuestion();
+        
+        DisplayQuestion();
         
     }
 
