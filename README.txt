@@ -1,2 +1,2 @@
-This is done by me to Train
-adding line
+This is a training game
+50 Questions Quiz game
